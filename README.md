@@ -2,14 +2,10 @@
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=I'm+a+Data+Scientist;Python+programmer;RPA+Developer;Investor+%7C+Trader" alt="Typing SVG" /></a>
 </p>
-
-
 <br>
 
 <p align="center"> 
-	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="7oSkaaa" target="_blank", width=46%/> 
-	</a>
+	
 	<!-- 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
 		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
 	</a> -->
