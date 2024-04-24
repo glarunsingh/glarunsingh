@@ -1,5 +1,4 @@
-# I'm Arun Singh G 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# I'm Arun Singh G <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=I'm+a+Data+Scientist;Python+programmer;RPA+Developer;Investor+%7C+Trader" alt="Typing SVG" /></a>
 </p>
