@@ -33,7 +33,7 @@
 
 ✍🏻 Passionate about using AI to solve complex problems and streamline operations.
 
-🔍 Open to new job opportunities—[Check my Resume](https://glarunsingh.github.io).
+🔍 Open to new job opportunities—[Check my Resume](https://glarunsingh.vercel.app).
 
 💻 Check out my projects on [GitHub](https://github.com/glarunsingh) and visit my [personal website](https://glarunsingh.github.io).
 
