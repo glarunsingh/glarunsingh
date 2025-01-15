@@ -54,7 +54,11 @@
 
 ### **🙌 Professional Experience**  
 
-#### **Generative AI Team Lead** - [Cognizant](https://www.cognizant.com/in/en) *(Sep 2019 - Present)*  
+#### **Techinical Lead - Generative AI** - [Wipro](https://www.wipro.com/) *(Jan 2025 - Present)*  
+- 🚀 Working on **Healthcare** products to define a robust solution for booking doctors appointments.  
+- 🔗 Integrated **LangChain**, **Grok**, **Azure Functions** and building a multimodel framework. 
+
+#### **Generative AI Team Lead** - [Cognizant](https://www.cognizant.com/in/en) *(Sep 2019 - Dec 2024)*  
 - 🚀 Designed AI-powered tools for **project estimation**, **document summarization**, and **sentiment analysis**.  
 - 🔗 Integrated **LangChain** and **Azure Functions** for automated data retrieval and process optimization.  
 
