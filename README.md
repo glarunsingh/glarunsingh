@@ -23,7 +23,7 @@
 
 <img align="right" src="https://github.com/glarunsingh/glarunsingh/blob/main/content/about.gif?raw=true" width="30%">
 
-👨‍💻 Senior Associate at [Cognizant](https://www.cognizant.com/in/en)
+👨‍💻  Technical Lead at [Wipro](https://www.wipro.com)
 
 ⚙️ Leading R&D efforts for Generative AI use cases.
 
